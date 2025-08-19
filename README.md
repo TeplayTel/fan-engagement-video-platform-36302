@@ -1,1 +1,3 @@
-# fan-engagement-video-platform-36302
+# Project Repository
+
+This is the initial README file for the project.
